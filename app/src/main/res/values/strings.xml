@@ -1,0 +1,742 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--Menu Card ID & Data-->
+    <string name="card1_menu">m1</string>
+    <string name="card1_menu_title">How to Care for Orchids</string>
+    <string name="card1_menu_content1">With more than 750 genera of orchids, over 30,000 hybrid orchids and more
+        new types of orchids every year, there is a wide variety of orchids to choose from for fans
+        orchid. Indeed, orchids grow on every continent except Antarctica, so orchid growers can
+        choose between the original orchid or the new orchid from a cross, depending on availability
+        and environmental compatibility. And when true orchid enthusiasts can (and should) spend a lot of time
+        In order to be diligent about reading many books on orchid growing and care, a novice grower needs to be
+        starting it another way. In this article, you will learn about the basics of orchid care
+        which are usually tough and easy to grow. Once you understand these basics, if you're still passionate
+        great for growing orchids more intensively, you can explore more orchid varieties
+        challenging when you already have confidence.</string>
+    <string name="card1_menu_title1">Method 1: Picking orchids</string>
+    <string name="card1_menu_content2"><b>1. Find the right orchid</b>Proper orchid care starts with choosing a suitable plant
+        with your particular environment. The orchids discussed in this article are the ones that are recommended to be grown
+        indoors because of its adaptability to almost any condition, easy to grow, easy to obtain,
+        and the flowers are beautiful.</string>
+    <string name="card1_menu_content3">• Will the orchid have enough room when it grows up? Or it needs to be moved
+        to another place? Some orchids can grow massively when fully grown and it is best to place them
+        in the greenhouse. \n\n
+        • Can you meet the temperature requirements that orchids need? Orchids can be divided into three types
+        based on temperature requirements –– cold, moderate and warm, which means that orchids need a minimum night temperature
+        certain in order to grow successfully. \n\n</string>
+    <string name="card1_menu_content4"><b>2. Buy a plant that already flowering</b> Plants that already have flowers
+        is a great buy, as orchid seeds can take up to five years to flower.
+        You probably don't want to wait that long, unless you are very patient, or already own a greenhouse
+        full of orchids.</string>
+    <string name="card1_menu_content5"><b>3. Consider growth requirements</b> Choose orchids based on
+        growing requirements in your home. This is important because each type of orchid has different needs,
+        depending on the origin of the orchid. Always read the label included in the instructions to be sure
+        that this plant is suitable for the conditions of your home and garden. The following are some of the common species of orchids
+        which usually do well in a home environment:</string>
+    <string name="card1_menu_content6"><b>• Phalaenopsis:</b> Commonly referred to as moth orchids, these are orchids
+        which is elegant for indoor use. Its long, colorful flower stalks stay fresh for months.
+        Flowering starts in winter or early spring. These orchids generally require less light
+        than cattleya orchids (see next) and grows well in almost any indoor condition.</string>
+    <string name="card1_menu_content7"><b>• Cattleya:</b> This orchid is most easily recognized because of its use in corsages
+        and has flowers that can last anywhere from two to six weeks. This orchid usually flowers once a year
+        during spring or fall, but requires twice the amount of light than moth orchids to thrive
+        well in the house.</string>
+    <string name="card1_menu_content8"><b>• Dendrobium:</b> These beautiful orchids give off long, graceful flower stalks
+        which is usually white, lavender or a combination of the two, during fall and winter. The flowers can be fixed
+        blooms for about three to four weeks, and is one of the easiest plants to care for.</string>
+    <string name="card1_menu_content9" tools:ignore="Typos"><b>• Paphiopedilum:</b> The function of the pouch is to trap insects so that they are forced to climb past the staminode, which is behind them
+        pollen collected or stored. The leaves are quite attractive with a green or mottled green and white color. This orchid
+        requires bright light, but should not be exposed to direct sunlight. At home, it is best placed
+        in the shaded east, west or south window (for the northern hemisphere). The leaves should naturally be semi-erect
+        and firm, not drooping. Room temperature is ideal for their growth.</string>
+    <string name="card1_menu_title2">Method 2 : Watering and Fertilizing</string>
+    <string name="card1_menu_content10"><b>1. How to water your orchids.</b> Orchidaceae is a family of flowering plants
+        largest, so there are many sub-families, or variations, and they require different watering requirements. Treatment
+        which causes one species to dry up posing a drowning risk for another. Generally, water your orchid every time
+        five to twelve days, depending on the type of orchid you have, the temperature, and the season --- or more watered in the season
+        hot, slightly watered in winter. While a nursery trainer or florist can give you specific information, there is
+        a general guide to assist you in determining the best watering method for your orchid:</string>
+    <string name="card1_menu_content11">• Keep these varieties evenly moist (not wet) at all times:</string>
+    <string name="card1_menu_content12">• Paphiopedilum\n• Miltonia\n• Cymbidium\n• Dontoglossum.</string>
+    <string name="card1_menu_content13">• Keep these varieties evenly moist during active growth,
+        but leave to dry between waterings if not in active growth:</string>
+    <string name="card1_menu_content14">• Cattleya\n• Oncidium\n• Brassia\n• Dendrobium</string>
+    <string name="card1_menu_content15">• Keep these varieties nearly dry between waterings:</string>
+    <string name="card1_menu_content16">• Phalaenopsis\n• Vanda\n• Ascocenda</string>
+    <string name="card1_menu_content17">• Be careful not to wet the leaves when you water your orchid. If the leaves are wet,
+        dry gently using a tissue or cotton ball.</string>
+    <string name="card1_menu_content18"><b>2. Take care</b> Remove the inner pot from the decorative pot on the outside and place it in the sink
+        or bathtub. Add orchid fertilizer to the watering can or container, and water the pot completely. Let the water flow up
+        used up before placing it back into its decorative pot. Never let it submerge in water, as it can die.</string>
+    <string name="card1_menu_content19">• Note: Epiphytic orchids (grown from branches) are not planted underground like terrestrial orchid varieties
+        (grows in the soil), but in coconut shells, bark or cork. Alternatively, they can be grown in styled wicker or wooden baskets
+        like a raft. Their roots grow from above, and not below as is commonly found in terrestrial plants.</string>
+    <string name="card1_menu_content20"><b>3. Fertilize your orchid.</b> In general, the application is recommended once a month for almost all elements of the fertilizer.
+        Look for fertilizers that contain nitrogen (N), phosphorus (P) and potassium (K), plus elements such as iron (Fe). Use a fertilizer with a nitrogen percentage
+        when new shoots emerge, and fertilize with more phosphorus and potassium later in season. Don't overdo it deeply
+        fertilize the orchid –– this can damage the orchid.</string>
+    <string name="card1_menu_content21">• If you are growing orchids on bark, use a fertilizer that is significantly higher in nitrogen
+        (with a ratio of 30 (N) -10 (P) -10 (K)). The bacteria in rotting bark will consume a lot of nitrogen. \n\n • Water your orchid
+        thoroughly before fertilizing.</string>
+    <string name="card1_menu_title3">Method 3 : The siege</string>
+    <string name="card1_menu_content22"><b>1. Understand the different needs of terrestrial and epiphytic orchids.</b> Many orchids are epiphytic types
+        (grows on trees or branches) and requires a very different growing medium than terrestrial orchids; indeed, orchids usually die when planted
+        in the ground if it is not a ground orchid type. Epiphytes have thick fleshy roots that are used to attach themselves to trees or bark
+        and to absorb water and nutrients; others have aerial roots that will grow hanging.</string>
+    <string name="card1_menu_content23"><b>2. Provide a suitable planting medium for your orchid.</b> Planting media that are commonly used include pine bark,
+        coconut husk, sphagnum moss, fern tree fiber, perlite, or a mixture of these. However, the planting medium will depend on the type of orchid –– medium
+        planting terrestrial orchids should mostly be from clay with equal parts of materials such as sphagnum moss, wet peat or hard sand.</string>
+    <string name="card1_menu_content24">• You can buy a pot that has been given a mixed planting medium for orchids or you can mix the medium yourself
+        which contains a mixture of shredded fern fibers, volcanic rock, charcoal, a little peat, pine bark or a combination of these ingredients.</string>
+    <string name="card1_menu_content25"><b>3. Change the pot if needed.</b> You need to change the pot every now and then, either to refresh the medium,
+        as well as to make room for its growth. Spring is the time usually used to replace potted orchids. Here are a few
+        things to consider: </string>
+    <string name="card1_menu_content26">• In general, orchids planted in bark should be replaced every 18 to 24 months. \n\n • Choose a pot size
+        based on the size of the root mass. Orchids tend to prefer smaller pots. With a significantly larger pot, the orchid will
+        consumes most of its energy on roots, and shows no new growth or noticeable foliage for months, so take your pick
+        small pot. All orchids like to slightly tangle their roots with roots that stick out from the top of the medium (or aerial roots should hang out
+        freely). However, as the plant produces more new stems or spikes, they will eventually grow larger than
+        the pot. \n\n • The pot will affect how you water. Orchids planted in porous pots like clay (good for orchids) will need this
+        more frequent watering than orchids in plastic containers. \n\n • Always use a pot that has drainage holes. Stagnant water will create
+        roots rot and the orchid will mulch. \n\n • In larger pots, the medium in the center may take longer to dry - a
+        conditions that will harm your orchid. To fix this, use a broken clay pot at the bottom of the container so that it drains more smoothly. \n\n • If
+        using a clay container, increase the drainage hole or make an additional hole in the side (near the bottom) of the pot.</string>
+    <string name="card1_menu_content27"><b>4. Replant orchids according to their type.</b> Carefully replant your plants in the small pots
+        larger or suitable container, using a suitable porous medium as recommended above. Make sure the pot always has good drainage.</string>
+    <string name="card1_menu_content28">• For terrestrial orchids: remove the plants from their original pots. Remove old media carefully. Place the plant inside
+        clean pot, sprinkle with new media around the roots. Secure it in place using a dibble (small spade) or small wooden stick. Leave a little space
+        between the compost and the edge of the pot for watering space. A distance of about 12 mm is sufficient. \n\n • For epiphytic orchids: Remove old, mushy media. Cut
+        dead roots and discard. Hold the orchid upside down and wrap the new media around the roots to make a strong roll. Rotate the right side of the orchid and place it
+        back into the container of your choice. You should not water the epiphytic orchid that is freshly potted for about a week, so that the roots are formed again. </string>
+    <string name="card1_menu_content29"><b>5. Keep the machine moist.</b> This is especially important from late spring to summer.</string>
+    <string name="card1_menu_title4">Method 4 : Pruning and Care</string>
+    <string name="card1_menu_content30"><b>1. Maintain bloom.</b> Peak blooming time starts from late winter, especially February and March in the Northern Hemisphere. Time
+        The bloom usually lasts four to twelve weeks. When the blooming season recedes, cut the spike 12mm at the top where the spike protrudes from
+        the leaves. Also trim any dead leaves and tissue, including old flower stalks, old leaves, any rotting parts of the plant, dead roots, etc.</string>
+    <string name="card1_menu_content31">• If you have a fungus that causes rot or disease, cut a little beyond the infected tissue to help stop it
+        the development of the infection.</string>
+    <string name="card1_menu_content32"><b>2. Don't prune orchids like bushes.</b> If you cut part of an orchid leaf, the remaining leaves may die,
+        and cutting any live pseudobulbs will ruin your orchid.</string>
+    <string name="card1_menu_content33"><b>3. Use sterile tools when pruning orchids.</b> This will help prevent the disease from spreading
+        plant to plant. It is recommended that you immerse the utensils in the bleach solution before using, or use a disposable razor.</string>
+    <string name="card1_menu_content34"><b>4. Watch Growth.</b> This will take the form of a new stem growing from the base of the old stem. Under the right conditions,
+        the new stem may be larger than the parent stem before it is ready to bloom again.</string>
+    <string name="card1_menu_content35">• The cool temperature at night helps to initiate flower blooming. With proper care according to the special needs of the variety,
+        orchid plants will grow and bloom every year.</string>
+    <string name="card1_menu_title5">Method 5 : Air ventilation</string>
+    <string name="card1_menu_content36"><b>1. Keep it at the right temperature.</b> The best is 18-30ºC. In a short time, they can withstand varying temperatures
+        between 16 and 37ºC, but they don't like sudden changes in temperature. The cold temperature will cause the leaves to turn yellow and eventually fall off. If this happens, pick it up
+        yellowing leaves and continue caring for the plant as usual.</string>
+    <string name="card1_menu_content37"><b>2. Make sure the air circulation is right.</b> Good air circulation can make a difference to your orchid's health. This will help
+        Your orchid is cured if your orchid is attacked by fungus or bug infestation which must be treated. Air circulation is also an important part of preventing pests and attacks
+        fungus because it keeps the leaves and flowers dry.</string>
+    <string name="card1_menu_content38">• In summer, open all windows so that natural airflow will circulate the air. This increases the evaporation of water and a lot of carbon
+        fresh dioxide. A gentle breeze will also help the orchid to cope with the scorching sun without burning its leaves. \n\n • In winter (or in summer, when
+        during the day), use a rotating fan to gently rotate the air. Move the fan occasionally to avoid excessive airflow in one place.</string>
+    <string name="card1_menu_title6">Method 6 : Indoor Orchid Varieties</string>
+    <string name="card1_menu_content39"><b>1. The following list shows orchids that can normally be grown indoors, although it must be accompanied by placement, lighting
+        addition and careful control of temperature:</b></string>
+    <string name="card1_menu_content40">• Brassolaeliocattleya "Norman's Bay"\n• \'Cattleya bowringiana \n• Coelogyne cristata \n• Cymbidium devonianum \n• Cymbidium "Touchstone" \n•
+        Dendrobium nobile \n• Epidendrum cochliatum (also known as Encyclia cochleata) \n• Laelia enceps \n• Maxillaria tenufolia \n• Miltonia clowesii \n•
+        Paphiopedilum callosum \n• Paphiopedilum "Honey Gorse" \n• Pleione formosana \n• Vanda cristata.</string>
+    <string name="card1_menu_content41">• One of the quickest ways to cause an orchid to die is to leave it in a waterlogged pot. Frequency
+        watering depends on the orchid type, medium, light conditions, pot characteristics and temperature. \n\n• Fertilization: Orchids require regular fertilization in order to grow and flower
+        well, but too much fertilizer damages crops quickly. A type of water-soluble fertilizer specially formulated for orchids can be found at most farm shops
+        and easy to use. \n\n• Use a soluble fertilizer every month, according to the level recommended on the packaging. A liquid fertilizer solution can be used to water the plants every week for as long
+        growing season. Every month, use plain water to rinse the pot from the salt buildup. \n\n• <b>Water is essential for phalaenopsis</b>, because this orchid has no organs (pseudobulbs)
+        to store water. <b>Don't let the phalaenopsis dry completely</b>. Water thoroughly, and do not water again until almost all over the pot. Don't let the water stick
+        on the leaves or in the axilla, because it can cause the orchid to catch disease and die. \n\n• After flowering, when leaf growth stops, reduce watering and fertilizing until
+        the orchid begins to produce new leaves again. \n\n• Orchids that grow on bark require a fertilizer with a higher nitrogen ratio, for example 30-10-10 or 15-5-5. Affixed orchids
+        and those not planted on the bark grow well with the same ratio of fertilizer formula, for example 20-20-20. Formulas of the "bloom booster" type can be used in the fall
+        which has a higher phosphorus formulation (number in the middle), for example 10-30-20. \n\n• Plants grown in small pots or clay and which grow on mixed bark
+        open wood may require more frequent watering. Orchids rest after flowering; watering should be reduced at that time. \n\n• Usually, when orchids are actively growing,
+        water it once a week and allow it to dry slightly before the next watering. At each flush, use a sufficient amount of water so that the water can flow out of it
+        the bottom of the pot. \n\n• Put 3-4 ice cubes once a week. Do not add more than one ice cube for plants that are less than 15 cm in size within one week.</string>
+    <string name="card1_menu_content42">• Diseases that usually cause problems in orchids include freckles on leaves, rotting petals, and other fungal diseases such as black
+        root. Another common problem is failure to flower, which is usually the result of poor growing conditions, mainly due to insufficient light and / or fertilizer. \n\n• Get rid of
+        scale (a type of pest) physically and then controlling the plants when they are not yet mature with chemical sprays can be of little help to plants that are attacked by pests. Snails and slugs can prey on shoots,
+        soft flowers, leaves and stems. \n\n• Viruses today are an incurable problem and can be difficult to distinguish from fungal infections. Get information from professionals
+        is a good idea if you are not sure. If your orchid catches a virus, remove it immediately and spray your pot thoroughly with an insecticide if you plan to use it.
+        back. \n\n • Common insect pests include mealybugs, spider mites, scales and thrips. Scales are usually attached to the underside of the leaves, and overgrown plants are infested with these pests
+        must be removed. \n\n• Orchids are susceptible to a number of insects and disease problems.</string>
+
+    <string name="card2_menu">m2</string>
+    <string name="card2_menu_title">How to Grow Orchids</string>
+    <string name="card2_menu_content1">Orchids are one of the most beautiful flowers among other plants, because they have a combination of exotic appearance and various characteristics.
+        Orchids are quite special plants, containing more than 30,000 different species and more than 200,000 hybrid varieties - making them the largest plant family in the world.
+        Can be grown indoors and outdoors, orchids are undoubtedly a unique plant, but unfortunately for some people, orchids are difficult to grow properly. Someone who wants to grow orchids
+        must prepare for both failure and success, because growing this beautiful plant can yield very mixed results.</string>
+    <string name="card2_menu_title1">Method 1: Planting Orchids in Pot</string>
+    <string name="card2_menu_content2"><b>1. Select an orchid species</b>. Some orchids are easier to grow than others. Cattleya, Phalaenopsis and Paphiopedilum orchids
+        is one of the easiest examples to grow and is recommended for beginner orchid growers. However, it is believed that there are more than 20,000 species of orchids - this number is more than twice that
+        avian species and 4 times larger than the existing mammal species in the world. So there is almost certainly one type of orchid for each type of person.</string>
+    <string name="card2_menu_content3" tools:ignore="Typos">• Phalaenopsis, Dendrobium and Oncidium are probably the most widely sold orchid genera. Phalaenopsis is known as "moth orchid" and is very popular among
+        novice orchid growers; the genus Dendrobium includes 1,200 species of orchids and is a classical orchid type; The oncidium can be recognized by the columned wings and callus on the tongue part of the
+        flowers. \n\n • Different genera of orchids have different humidity, growing temperature, watering schedule, and ideal light requirements. Discuss with local orchid growers or
+        visit your local orchid club for an overview of what it takes to make your orchid thrive.</string>
+    <string name="card2_menu_content4"><b>2. Choose a soil type that is suitable for your orchid</b>. Some people growing orchids for the first time make the mistake of assuming they need to
+        planted in a pot filled with soil like any other flower plant, so choose the soil to use. This would be a big mistake. Most orchid roots need more
+        more air than the soil in the pot can provide, so choose a mixture that is more hollow and loose.</string>
+    <string name="card2_menu_content5">• Many people use wood chips, spaghnum moss, coconut shell pieces, charcoal, perlite and even styrofoam as potting mixtures. Experiment with
+        your own hollow mix or ask a skilled orchid grower for specific recipes.</string>
+    <string name="card2_menu_content6"><b>3. Try a potting mix of several components</b>. For convenience, you can make two basic potting mixes that work with most orchids.</string>
+    <string name="card2_menu_content7">• Make a "fine potting mix" suitable for small orchids such as some oncidiums, miltonia and other orchids that have small roots and prefer moisture over
+        orchids mostly:</string>
+    <string name="card2_menu_content8">• 4 the trunk of a pine tree or smooth coconut shell\n\n• 1 fine charcoal section\n\n• 1 perlite section</string>
+    <string name="card2_menu_content9">• Make a suitable "potting mix" for cattleyas, phalaenopsis, and other mature orchids. If you are unsure which mixture to use, try a medium potting mix
+        before using the fine potting mix:</string>
+    <string name="card2_menu_content10">• 4 medium-sized pine or coconut shells\n\n• 1 medium sized portion of charcoal\n\n• 1 perlite section</string>
+    <string name="card2_menu_content11"><b>4. Unless your orchid plant is large, use a protected pot for your orchid</b>. Many orchids are comfortable growing root bound. Choose a smaller pot for
+        plant your orchids, make sure that there are plenty of holes in the pot for water flow. Remember that orchids' main enemy is often excess water. Some types of orchids, such as cymbidiums, will require more pots
+        length to accommodate their very long root systems. The following types of pots will give you options other than the traditional earthenware pots (which generally work well):</string>
+    <string name="card2_menu_content12">• Mesh pots, which have a mesh that makes it easier for the orchid to breathe. Can be hung in a specific location to get more sunlight
+        good. \n\n• A clear plastic pot, which will give the orchid roots better access to sunlight. These pots allow orchid growers to observe their orchid's root system without being distracting
+        plants. \n\n• Wooden pots, made of rot resistant wood. Coat your wooden pot with a layer of moss before adding to the potting mix.</string>
+    <string name="card2_menu_content13"><b>5. If you start growing from seed, be patient</b>. Make sure your hands and the environment around you are sterile. Spread a few orchid seeds on the bottom surface of the pot. Add fertilizer
+        environmentally friendly, if necessary. Don't forget to use the best potting mix.</string>
+    <string name="card2_menu_content14"><b>6. Plant your orchids in pots</b>. Remove orchids from their initial planting pot, making sure to cut off any dead or rotting roots. Divide the root of the orchid into sections if necessary before
+        put it in a pot. The most mature part of the growth should be positioned against the wall of the pot. Lightly add the potting mixture, barely covering the root system.</string>
+    <string name="card2_menu_content15"><b>7. Know when to replant your orchids</b>. Various orchids will do better if they are transplanted into new pots:</string>
+    <string name="card2_menu_content16">• Once a year: Dendrobium, Miltonia, Paphiopedilum and Phalaenopsis (and hybrid orchids)\n\n• Twice a year: Cattleya, Dendrobium, Oncidium, Odontoglossum (and hybrid orchids)\n\n• Once in
+        three years: Vanda, Cymbidium</string>
+    <string name="card2_menu_title2">Method 2: Care For Your Orchids</string>
+    <string name="card2_menu_content17"><b>1. Create the right temperature for your orchid</b>. Most orchids come from a tropical climate, which means good air, lots of light, and 12 hours of daylight (365 days a year). Temperature
+        (depending on orchid species) ranges from 18.3 to 23.8 degrees Celsius.</string>
+    <string name="card2_menu_content18">• Make sure that there is a temperature difference of 6.66 degrees C between day and night. This should be done as soon as you start planting.</string>
+    <string name="card2_menu_content19"><b>2. Make sure your orchid is getting enough sun, but not too much</b>. Many types of orchids prefer indirect sunlight because direct sunlight can cause it
+        they burn, but not enough sunlight can also cause your orchids not to flower.</string>
+    <string name="card2_menu_content20">• Check your orchid leaves if you want to see if they are getting enough sun or too much. Orchid leaves should be light, green and healthy. If the leaves are dark green,
+        means that your orchid is deprived of sunlight. On the other hand, if the leaves are yellow, reddish or brown, it means that your orchid has too much sun. \n\n• Orchids that need less light (Paphiopedilum, Phalaenopsis and Oncidium)
+        grows best in northern or eastern sunlight. Orchids that require moderate to large amounts of sunlight (Cattleya, Dendrobium, and Vanda) prefer to grow in sunlight from the west or
+        southern. \n\n• Orchids love to grow behind curtains or shutters. Because this way, they can get a lot of indirect sunlight, which is what they prefer.</string>
+    <string name="card2_menu_content21"><b>3. Water your orchid once every 5 to 12 days</b>. It will be easier to kill an orchid by watering it too much than by watering it too rarely. During the dry season,
+        warmer weather may make your orchid need more water.</string>
+    <string name="card2_menu_content22">• Keep the following genera of orchids moist (although not wet) at all times: Paphiopedilum, Miltonia, Cymbidium, and Odontoglossum. \n\n• Keep the following genera moist during active growth, however
+        otherwise let them dry between watering times: Cattleya, Oncidium, Brassia, and Dendrobium. \n\n• Allow the following genera to dry between water applications: Phalaenopsis, Vanda, and Ascocenda.</string>
+    <string name="card2_menu_content23"><b>4. Care for your orchids diligently</b>. Orchids require more attention than other plants or flowers. The thicker your orchid leaves, the more likely your orchid will need them
+        more water / However if your plants have wide bubbles, less water is better. Orchids can't stand some things, but they can stand it when the problem is water intake. And again, orchids can solve the problem of water shortages
+        better than excess water.</string>
+    <string name="card2_menu_content24"><b>5. Don't over-fertilize your orchid</b>. In general, apply fertilizer once a month, not more often. If you apply the fertilizer frequently, the orchid roots can burn and
+        flower growth can be disturbed.</string>
+    <string name="card2_menu_content25"><b>6. Keep the growing environment moist</b>. Because orchids have the ability to absorb moisture, keep your orchid growing room at about 60% - 80% humidity each
+        time.</string>
+    <string name="card2_menu_content26"><b>7. Understand that every orchid is different</b>. Each type of orchid has different care requirements and rules. No single orchid is the same; all require temperature, lighting, and
+        different water delivery schedules. So when you choose a type of orchid to plant, you need to be flexible.</string>
+    <string name="card2_menu_content27">• Orchid plants can take a long time to grow. You will see no signs that your plant is growing for several months, roots are much later, and the first flower will rarely grow up
+        8 years later. So patience is the most important thing. However, calm down and take care of your orchids, it will prove beneficial after your orchids bloom.</string>
+
+    <string name="card3_menu">m3</string>
+    <string name="card3_menu_title">How to Water Orchids</string>
+    <string name="card3_menu_content1">Orchids are becoming popular as houseplants, and many beautiful orchid varieties can be found in nurseries and garden supply stores. In the wild, orchids often grow on trees, and their roots are exposed
+        sun and air as well as water. Orchids reared in pots require special watering techniques that mimic their natural environment. Water the orchids as needed, only when the potting medium is nearly dry.</string>
+    <string name="card3_menu_title1">Part 1: Deciding When to Water</string>
+    <string name="card3_menu_content2"><b>1. Flush as needed</b>. No orchid needs to be watered every day. Usually, watering too much can cause orchid roots to rot and eventually die. [1] Unlike most house plants, orchids are a must
+        watered only when it will start to dry out. Water only when the plant is nearly dry to mimic the orchid's natural environment.</string>
+    <string name="card3_menu_content3">• Some orchids have organs that store water, and some don't. If you are raising orchids that do not have water-retaining organs, such as phalaenopsis or paphiopedilums, you should water them before
+        completely dry. \n\n• If you are not sure which orchid you have, water the orchids when they are almost dry, but leave some moisture behind.</string>
+    <string name="card3_menu_content4"><b>2. Consider the local climate</b>. How often you water is affected by the humidity in the air where you live, the sunlight the orchid receives, and the temperature. Since these factors vary by region and house, there are no regulations
+        about the frequency of watering the orchids. You must establish a routine tailored to the specific environment in which you live.</string>
+    <string name="card3_menu_content5">• If the house temperature is cool, the orchid needs to be watered less frequently than when the temperature is warm. \n\n• If the orchid is placed in a sunny window, it will need to be watered more frequently than when it is placed in a shady place.</string>
+    <string name="card3_menu_content6"><b>3. Check if the planting medium looks dry</b>. This is the first indication of knowing when to water an orchid. The medium for growing orchids usually consists of bark or peat, and if it looks dry and dusty, then it's time to water
+        orchid. However, looking at the growing medium alone is not a sufficiently accurate indication that it is time to water.</string>
+    <string name="card3_menu_content7"><b>4. Lift the pot to check the weight</b>. The pot will feel lighter when it's time to water the orchids. If it is heavy, it means that there is still water in the pot. Over time you will be able to tell how heavy the pot is when it needs to be watered from when it is potting
+        there is still water in it.</string>
+    <string name="card3_menu_content8">• Pot containing water will also look different. If the orchid is planted in a clay pot, the pot will appear darker when wet. If the pot is light, it's time to water.</string>
+    <string name="card3_menu_content9"><b>5. Perform a finger test</b>. This is the best way to determine if an orchid needs water. Insert your little finger into the planting medium, being careful not to damage the orchid roots. When you don't feel the humidity, or if you do
+        taste but very little, now it's time to water the orchids. If you feel moisture right away, don't water it yet. When in doubt, you will have to wait another day for the watering.</string>
+    <string name="card3_menu_title2">Part 2: Water Properly</string>
+    <string name="card3_menu_content10"><b>1. Make sure the pot has drainage holes</b>. You can't water an orchid properly if you don't have drainage holes, because the water needs to flow out through the holes. Stagnating water in the pot will cause the roots to rot, so water is necessary
+        flows to the bottom. If you purchased an orchid that is packaged in a decorative pot without a hole, transfer the orchid to a pot with a deep hole at the bottom. Better to use orchid growing media than ordinary potting soil.</string>
+    <string name="card3_menu_content11">• Use the ice cube method if you don't want to transfer your orchid to another pot. If you just want to water your orchids quickly without transferring them to another pot, you can use the popular ice cube method. Place the ice equal to 1/4 cup of water
+        (usually about three medium sized ice cubes) on top of the potting medium. Let the ice cubes melt into the pot. Wait about a week before repeating. This method isn't optimal for your orchid's long-term health, but is perfect if you don't want to move the pot.</string>
+    <string name="card3_menu_content12"><b>2. Water the orchids under running water</b>. The easiest way to water orchids is to place them under a faucet and turn on the water at room temperature. If you have an installation that divides the flow of water, this is better than one fast flow
+        for orchids. Water the orchid like this for one minute, this allows the water to soak through the pot and come out again in the hole in the bottom of the pot.</string>
+    <string name="card3_menu_content13">• Do not use water that has been depleted or treated with harsh chemicals. If you have a special type of orchid, learn if you can use distilled water or rainwater. \n\n• Water must be drained vigorously over
+        in a pot. If water feels trapped in the pot, the growing medium you are using may be too dense. \n\n• After watering the orchid, check the weight of the pot to see the difference in pot weight when it gets lighter and the orchid is ready to water again.</string>
+    <string name="card3_menu_content14"><b>3. Water in the morning or evening</b>. That way the excess water will be able to evaporate before nightfall. When water stagnates the plants overnight, it can cause rotting plants or the plants susceptible to disease.</string>
+    <string name="card3_menu_content15">• If you see excess water pooling on the leaves, rinse them with a thick paper towel. \n\n• A few minutes after watering, check the saucers and empty them so that no water gets stagnant near the orchids.</string>
+    <string name="card3_menu_content16">• When the orchid develops or grows a lot of leaves and roots, it can be watered with more water. \n\n• When the orchid rests its growth between flowering times, water it less. This usually occurs in the late fall and early
+        to mid-winter, depending on the orchid species. \n\n• The orchid's coarse, porous medium allows good airflow to the orchid roots but can retain water. The easiest way to get a good orchid medium is to buy a growing mix from
+        a good nursery. \n\n• Larger plants require more water than smaller plants in pots of the same size. \n\n• Cool temperatures and little sunlight will cause orchids to need less water. \n\n• In very humid conditions orchids
+        requires less water. In very dry conditions require more water. The ideal humidity level is 50 to 60%. \n\n• Treat with care.</string>
+    <string name="card3_menu_content17">• When you use a water-soluble fertilizer, salt may build up in the potting media and over time damage the orchid. Do not use fertilizer after every watering. \n\n• Orchids whose leaves look wilted or weak
+        it could be getting too much water causing root rot and water not reaching the leaves or because they are too dry. Check the planting medium before watering. \n\n• Orchids die quickly if planted in pots soaked in
+        water. \n\n• When you pour water on an orchid that is exposed to direct sunlight, brown spots from the burn will appear on the petals. This won't hurt the orchid, but will spoil its appearance.</string>
+
+    <string name="card4_menu">m4</string>
+    <string name="card4_menu_title">How to Replace an Orchid Pot</string>
+    <string name="card4_menu_content1">There's something about orchids that makes us bewitched, right? This exotic plant has beautiful stems and flower petals that are very charming for natural forest habitats. Orchids can be grown in a residential environment only a little
+        maintenance. Repotting the orchid is done to prevent the roots from becoming overcrowded, so that the orchid will continue to produce beautiful flowers for years to come. See Step 1 to learn how to determine when an orchid is ready to replace
+        pot and how to transplant it into a new pot without damaging the roots.</string>
+    <string name="card4_menu_title1">Part 1: Identifying the Orchids You Plant</string>
+    <string name="card4_menu_content2"><b>1. Determine the right time to change the pot</b>. The ideal time for orchids to be transplanted into new pots is after they have finished flowering, when they begin new growth. Even though,
+        You don't have to change the orchid pot every time; just do repoting for no more than 18-24 months. If you are not sure when the last time the orchid was potted, but it appears that the plant has grown out of the pot,
+        maybe you are reworking it too late. Watch your orchid for the following signs that indicate it is ready to move into a new pot:</string>
+    <string name="card4_menu_content3">• Some parts of the roots grow through the pot. If you see a lot of roots — not just one or two — hanging out of the pot, the orchid is taking up more space, and it's time to transfer the orchid to a container.
+        larger. \n\n• Some roots rot. If the roots of the orchid look soggy, and the potting material is no longer well-draining, then you will need to re-do it. \n\n• Plants grow on the edge of the pot. If most
+        the plant leans over the edge of the pot, a sign that the orchid needs more space.</string>
+    <string name="card4_menu_content4"><b>2. Don't do it again unless you really need to</b>. Too much enthusiasm for repoting can disrupt the plant growth cycle. Orchids should only need to be repotted
+        if it shows signs as mentioned above. If the orchid looks healthy and is growing well in its container, it can be postponed for years to come. It would be better if the orchid looks a little claustrophobic than it is done
+        rework too soon.</string>
+    <string name="card4_menu_content5"><b>3. Know the potting material you need</b>. Once you know the right time to repack it, it is very important to know the right type of planting material to use.
+        Many of the types of orchids that are made into houseplants are epiphytic (plants that ride on other plants but are not parasites) rather than terrestrial plants (plants that grow in the soil). Epiphytic orchids tend to die if
+        You plant it in a pot with soil / ordinary growing media.</string>
+    <string name="card4_menu_content6">• Combining fir bark (fir tub), sphagnum moss (a type of moss), wood charcoal, and coconut husk, is a suitable planting medium for various types of orchids. Most of the common orchids will grow well inside
+        the following combinations:</string>
+    <string name="card4_menu_content7">• 4 the fir bark or coconut husk\n\n• 1 medium-sized charcoal section\n\n• 1 perlite section</string>
+    <string name="card4_menu_content8">• If you are not sure what type of orchid you have, a mixed pack of orchid plants is safe to use for most types of epiphytic orchids. These packages are usually available at various centers
+        a plant nursery or a home and garden sales center. \n\n• If you have terrestrial orchids, you will need fragile soil that retains water well. The soil must contain perlite and
+        high wood material. Consult an expert at a plant nursery about the right mix of growing media for the type of orchid you have.</string>
+    <string name="card4_menu_content9"><b>4. Determine the size of the pot that will be used</b>. When re-packing your orchid, you will need a pot that is about 1 inch (2.54 cm) larger or even bigger than the previous pot.
+        You need to provide more space, but not too much. If the pot is too large the orchid will tend to concentrate on root growth. As a result, you won't see orchids in bloom for very long. Look for a pot
+        made of plastic, clay / pottery, glass or ceramic according to the size of the orchid.</string>
+    <string name="card4_menu_content10">• Make sure the new pot has drainage holes. If the pot is not well drained, the orchid's roots will rot. \n\n• Some species of orchids have roots that can carry out photosynthesis. If you
+        if you have Phalaenopsis (a type of epiphytic orchid), consider using a glass or transparent plastic pot so that sunlight can penetrate it. \n\n• If you have to choose a pot with wide sides, you may want to
+        need to add terracotta strips to the bottom of the pot. This will help get the planting medium in the center of the pot, where it tends to stay wet and has more effective drainage.</string>
+    <string name="card4_menu_title2">Section 2: Preparing the Necessary Materials</string>
+    <string name="card4_menu_content11"><b>1. Measure out the amount of planting medium you need in a large bucket or basin</b>. Fill the new pot with the planting medium mixture, then place it in the container twice. To prepare a pot planting medium,
+        You need to soak it in water overnight. This will help retain the moisture the orchid needs.</string>
+    <string name="card4_menu_content12"><b>2. Flush the growing mixture with hot water</b>. Continue filling the bucket or basin with hot water to the top. Do not use cold water, as the material will not absorb it very well.
+        Ensure that the soil is at room temperature before re-packing.</string>
+    <string name="card4_menu_content13"><b>3. Filter the growing mixture</b>. You can use a food colander (wash thoroughly afterward) or a large piece of cheesecloth. Drain the water so all that's left is
+        wet potting mix. Run more warm water over the mixture to rinse off any dirt.</string>
+    <string name="card4_menu_content14"><b>4. Take the orchid plant from the old pot</b>. Take care to remove the orchids from the old pot, loosening the roots one by one. If the roots of the plant get stuck in the pot, use scissors or a sterile knife to
+        take it off. You need to use clean equipment, as orchids are prone to disease.</string>
+    <string name="card4_menu_content15">• You will need to sterilize the clippers (scissors, knife, etc.) with a gas lighter or wipe them with a cloth / rag soaked with alcohol.</string>
+    <string name="card4_menu_content16"><b>5. Throw away the old planting medium and dead roots</b>. Use your fingers and clean scissors to carefully clean the orchid roots. Remove and discard all dead mixture — charcoal, chunks
+        wood, moss, etc. Use scissors to pick up rotten roots, being careful not to damage any healthy parts of the plant.</string>
+    <string name="card4_menu_content17">• Tender, limp roots are likely dead, so they should be removed. \n\n• Carefully unscrew the roots by removing them with your fingers.</string>
+    <string name="card4_menu_content18"><b>6. Prepare a new pot that will be used</b>. If you are using a pot that has been used before, clean and sterilize it with boiling water to remove toxins and kill potential germs.
+        If the pot is large and deep then to help with the drainage system, you can fortify it with terracotta or packing / foam peanut - filling material for loose parts of the packaging used to prevent damage to fragile objects during shipping.
+        made of styrofoam / polystyrene, bioplastics, etc. If you are using a shallow pot, this step is unnecessary.</string>
+    <string name="card4_menu_title3">Part 3: Replacing an Orchid Pot</string>
+    <string name="card4_menu_content19"><b>1. Place the orchid in the pot</b>. The previously grown parts are placed at the bottom of the pot, while the newly grown plants are placed on the sides so they will have enough room to spread out. The top of the mass
+        the roots should be at the same level as the previous pot. This means that the new shoots should be above the surface of the pot, with most of the roots underneath.</string>
+    <string name="card4_menu_content20"><b>2. Press the potting mix into the pot</b>. Pour some of it in around the roots then shake the pot and tap the sides so that the planting medium can easily get into the root circle. If you do it by hand,
+        press gently so that the roots are not damaged. Make sure there are no large air pockets. If there are parts of the roots that are not covered, the roots cannot grow properly.</string>
+    <string name="card4_menu_content21">• Pour the planting medium mixture little by little. Use your hands to arrange the roots, then pour more of the planting mix into the pot. \n\n• Continue to press the mixture until it is even with the top of the pot.</string>
+    <string name="card4_menu_content22"><b>3. Make sure the plant can stand in an upright position when your work is finished</b>. Provide support or pinch the plant to the side of the pot so it doesn't droop or grow in the wrong direction.</string>
+    <string name="card4_menu_content23"><b>4. Continue to care for your orchids as before</b>. Place the orchid pot in a cool area with partial shade. Water sufficiently according to plant needs.</string>
+    <string name="card4_menu_content24">• Prepare your work area by covering the floor, table, or other surface with old newspaper or plastic. \n\n• If your orchid is too difficult to remove from the old pot, crush the pot to break it
+        more effectively.</string>
+    <string name="card4_menu_content25">• Make sure to always choose a pot that has drainage holes at the bottom. If the water is allowed to stay and stagnate, it is possible that the orchid roots will rot.\n\n• Do not change the potting medium for orchids regularly.
+        sudden. If you believe that a different growing medium might be more beneficial for your plant, do your research ahead of time and wait for the right time to make a pot replacement.</string>
+    <string name="card4_menu_content26">• Pot\n\n• Potting mix\n\n• Air\n\n• Knife\n\n• Pruning tool\n\n• Foam/packing peanuts or terracotta pieces\n\n• Tweezers and plant supports</string>
+
+    <string name="card5_menu">m5</string>
+    <string name="card5_menu_title">Videos about Orchids</string>
+
+    <string name="card6_menu">m6</string>
+    <string name="card6_menu_title">Quiz &amp; Learning</string>
+    <string name="btn_start_quiz">Start Quiz</string>
+    <string name="btn_next_quiz">Continue</string>
+    <string name="btn_submit_quiz">Done</string>
+    <string name="title_quiz_activity">Quiz Orchid</string>
+    <string name="title_quiz_activity2">Quiz :</string>
+    <string name="quiz_question_info">Quiz question number</string>
+    <string name="result_quiz_activity">Quiz Results</string>
+    <string name="warn_quiz_noanswer">Please choose an answer before proceeding to the next question ...</string>
+    <string name="quiz_startpage_title">Welcome,\nto the Orchidpedia Quiz!</string>
+    <string name="quiz_startpage_description">Here you can practice and evaluate material about Orchids that you have learned on the Orchidpedia Application.\n\nTo start Quiz, press the button\n<b>Start Quiz</b>.</string>
+    <string name="quiz_record_title">Score History Quiz</string>
+    <string name="quiz_norecord">There is no recent score history. Try Quiz now to score your highest!</string>
+    <string name="quiz_exit_warning_title">Quiz Exit Confirmation?</string>
+    <string name="quiz_exit_warning_description">You cannot continue the Quiz if you have logged out.</string>
+    <string name="btn_exit_quiz">Quiz Quiz</string>
+    <string name="btn_decline_exit_quiz">Cancel</string>
+    <string name="quiz_result_title">Congratulations,\nYou have completed the Quiz!</string>
+    <string name="quiz_result_description">Your score:</string>
+    <string name="btn_restart_quiz">Restart Quiz</string>
+    <string name="btn_finish_quiz">Close Quiz</string>
+    <string name="quiz_highestscore_badge">Highest Score</string>
+    <string name="quiz_newrecord_badge">Latest Records</string>
+    <string name="num1">1. </string>
+    <string name="num2">2. </string>
+    <string name="num3">3. </string>
+    <string name="quiz_score_hint">Your score is good! Improve it again by studying the material and repeating Quiz.</string>
+
+
+    <!--Question Resources-->
+    <string name="quest1">The varieties below must be kept evenly moist at all times, <b>except</b>…</string>
+    <string name="quest1_op1">Paphiopedilum</string>
+    <string name="quest1_op2">Dendrobium</string>
+    <string name="quest1_op3">Miltonia</string>
+    <string name="quest1_op4">Cymbidium</string>
+    <string name="quest1_answer">2</string>
+    <string name="quest1_img">false</string>
+
+    <string name="quest2">The varieties below should be kept evenly moist at all times only during times
+        active growth, but let it dry if not in the active growth period is ...</string>
+    <string name="quest2_op1">Paphiopedilum</string>
+    <string name="quest2_op2">Miltonia</string>
+    <string name="quest2_op3">Dontoglossum</string>
+    <string name="quest2_op4">Cattleya</string>
+    <string name="quest2_answer">4</string>
+    <string name="quest2_img">false</string>
+
+    <string name="quest3">This variety should be kept slightly dry between waterings, <b>except</b>…</string>
+    <string name="quest3_op1">Brassia</string>
+    <string name="quest3_op2">Phalaenopsis</string>
+    <string name="quest3_op3">Vanda</string>
+    <string name="quest3_op4">Ascocenda</string>
+    <string name="quest3_answer">1</string>
+    <string name="quest3_img">false</string>
+
+    <string name="quest4">What is an Epiphytic Orchid?</string>
+    <string name="quest4_op1">Orchid varieties that only need a little water</string>
+    <string name="quest4_op2">Orchid varieties that grow from branches</string>
+    <string name="quest4_op3">A rare variety of orchids</string>
+    <string name="quest4_op4">Orchid varieties that grow in the soil</string>
+    <string name="quest4_answer">2</string>
+    <string name="quest4_img">false</string>
+
+    <string name="quest5">Why should we add significantly higher nitrogen fertilizers
+        to plant orchids on bark?</string>
+    <string name="quest5_op1">So that orchid roots stay healthy</string>
+    <string name="quest5_op2">So that the orchids can bloom faster</string>
+    <string name="quest5_op3">Because bacteria in rotting bark will consume a lot of nitrogen</string>
+    <string name="quest5_op4">Because different methods of planting orchids, different fertilizer requirements</string>
+    <string name="quest5_answer">3</string>
+    <string name="quest5_img">false</string>
+
+    <string name="quest6">What are Terrestrial Orchids?</string>
+    <string name="quest6_op1">Orchid varieties that only need a little water</string>
+    <string name="quest6_op2">Orchid varieties that grow from branches</string>
+    <string name="quest6_op3">A rare variety of orchids</string>
+    <string name="quest6_op4">Orchid varieties that grow in the soil</string>
+    <string name="quest6_answer">4</string>
+    <string name="quest6_img">false</string>
+
+    <string name="quest7">Why do Epiphytic Orchids tend to have thick fleshy roots?</string>
+    <string name="quest7_op1">To attach oneself to a tree or bark &amp; to absorb water and nutrients</string>
+    <string name="quest7_op2">So that the root of the orchid is not eaten by bacteria or other animals</string>
+    <string name="quest7_op3">To penetrate the hard layer of soil</string>
+    <string name="quest7_op4">To protect yourself from predators</string>
+    <string name="quest7_answer">1</string>
+    <string name="quest7_img">false</string>
+
+    <string name="quest8">What is the scientific name of the orchid above?</string>
+    <string name="quest8_op1">Dendrobium</string>
+    <string name="quest8_op2">Cattleya</string>
+    <string name="quest8_op3">Cymbidium</string>
+    <string name="quest8_op4">Phalaenopsis</string>
+    <string name="quest8_answer">4</string>
+    <string name="quest8_img">true</string>
+
+    <string name="quest9">What is the scientific name of the orchid above?</string>
+    <string name="quest9_op1">Vanda</string>
+    <string name="quest9_op2">Cymbidium</string>
+    <string name="quest9_op3">Cattleya</string>
+    <string name="quest9_op4">Dendrobium</string>
+    <string name="quest9_answer">2</string>
+    <string name="quest9_img">true</string>
+
+    <string name="quest10">What is the scientific name of the orchid above?</string>
+    <string name="quest10_op1">Paphiopedilum</string>
+    <string name="quest10_op2">Dendrobium</string>
+    <string name="quest10_op3">Oncidium</string>
+    <string name="quest10_op4">Vanda</string>
+    <string name="quest10_answer">3</string>
+    <string name="quest10_img">true</string>
+
+    <string name="quest11">Quesion Eleven</string>
+    <string name="quest12">Quesion Twelve</string>
+    <string name="quest13">Quesion Thirteen</string>
+    <string name="quest14">Quesion Fourteen</string>
+    <string name="quest15">Quesion Fifteen</string>
+    <string name="quest16">Quesion Sixteen</string>
+    <string name="quest17">Quesion Seventeen</string>
+    <string name="quest18">Quesion Eighteen</string>
+    <string name="quest19">Quesion Nineteen</string>
+    <string name="quest20">Quesion Twenty</string>
+
+
+    <!--Menu Resources-->
+    <string name="menu_tips">Tips</string>
+    <string name="menu_warning">Warning</string>
+    <string name="menu_equipment">Things You Will Need</string>
+    <string name="menu_reference1">Reference: wikiHow</string>
+
+
+    <!--Encyclopedia Card ID & Data-->
+    <string name="card1_encyclopedia">e1</string>
+    <string name="card1_ens_title">Phalaenopsis</string>
+    <string name="card1_ens_header1">Phalaenopsis</string>
+    <string name="card1_ens_header2">Aeridinae</string>
+    <string name="card1_ens_header3">Asparagales</string>
+    <string name="card1_ens_header4">Genus</string>
+    <string name="card1_ens_founder">Carl Ludwig Blume (1825)</string>
+    <string name="card1_ens_description" tools:ignore="Typos">Phalaenopsis, known as moth orchid, abbreviated as Phal in the horticultural trade,
+        is a genus of orchids consisting of about 60 species. Phalaenopsis is one of the most popular orchids in the trade,
+        through the development of many artificial hybrids. These originate from southern China, Taiwan, the Indian continent, Southeast Asia (Thailand, the Philippines,
+        Malaysia, Indonesia, etc.), New Guinea, Bismarck Islands and Queensland.</string>
+
+    <string name="card2_encyclopedia">e2</string>
+    <string name="card2_ens_title">Dendrobium</string>
+    <string name="card2_ens_header1">Dendrobium</string>
+    <string name="card2_ens_header2">Dendrobiinae</string>
+    <string name="card2_ens_header3">Asparagales</string>
+    <string name="card2_ens_header4">Genus</string>
+    <string name="card2_ens_founder">Olof Swartz</string>
+    <string name="card2_ens_description" tools:ignore="Typos">Dendrobium is a genus of epiphytic orchids commonly used as ornamental plants or gardens. The flowers are very varied and beautiful. Dendrobium is relatively easy to maintain and flower.\n\nThe growth pattern of the Dendrobium orchid is a sympodial type, meaning that it has limited stem tip growth.
+        This stem grows steadily and will stop once it reaches its maximum limit. This growth will be continued by new tillers growing beside it. In this sympodial orchid, there is a connector called rhizoma or underground stem. From this rhizome, new shoots will emerge. Between the rhizome and the leaves there is a kind of tuber called pseudobulbs
+        (fake bulbs). The pseudobulb varies in size and shape.\n\nDendrobium orchids require moderate to high sunlight, depending on the type of Dendrobium. If the temperature is too high it can be helped by misting with the use of a spray to avoid greater evaporation.</string>
+
+    <string name="card3_encyclopedia">e3</string>
+    <string name="card3_ens_title">Cymbidium</string>
+    <string name="card3_ens_header1">Cymbidium</string>
+    <string name="card3_ens_header2">Cymbidiinae</string>
+    <string name="card3_ens_header3">-</string>
+    <string name="card3_ens_header4">Genus</string>
+    <string name="card3_ens_founder">Olof Swartz</string>
+    <string name="card3_ens_description" tools:ignore="Typos">Cymbidium is a botanical genus that belongs to the family Orchidaceae. The new Latin genus name comes from the Latin cymba which means boat. Its first known use was in 1815.</string>
+
+    <string name="card4_encyclopedia">e4</string>
+    <string name="card4_ens_title">Cattleya</string>
+    <string name="card4_ens_header1">Cattleya</string>
+    <string name="card4_ens_header2">Laeliinae</string>
+    <string name="card4_ens_header3">-</string>
+    <string name="card4_ens_header4">Genus</string>
+    <string name="card4_ens_founder">John Lindley</string>
+    <string name="card4_ens_description" tools:ignore="Typos">Cattleya is a genus of 42 species of orchids from Costa Rica to Tropical South America and is a genus of epiphytic orchids. It was named Cattleya by John Lindley in 1824
+        after Sir William Cattley who succeeded in cultivating a specimen of Cattleya Labiata which was used as packaging material in shipping other orchids. Orchids of this type live on large wooden trees, so they are protected from exposure to light
+        direct sun and get the moisture they so desperately need.</string>
+
+    <string name="card5_encyclopedia">e5</string>
+    <string name="card5_ens_title">Vanda</string>
+    <string name="card5_ens_header1">Vanda</string>
+    <string name="card5_ens_header2">Aeridinae</string>
+    <string name="card5_ens_header3">Asparagales</string>
+    <string name="card5_ens_header4">Genus</string>
+    <string name="card5_ens_founder">Ernst Hugo Heinrich Pfitzer</string>
+    <string name="card5_ens_description" tools:ignore="Typos">Vanda is a genus in the orchid family, Orchidaceae. There are about 80 species, and the genus are generally cultivated for the market. The genus and its allies are considered to be among the most specifically adapted of
+        all the orchids in the Orchidaceae. This genus is highly prized in horticulture for its striking, fragrant, long-lasting and very colorful colors. The Vanda species is widespread in East Asia, Southeast Asia, and New Guinea, with several species spreading to
+        Queensland and several islands in the western Pacific. The genus is sometimes abbreviated as V. in the flower trade.</string>
+
+    <string name="card6_encyclopedia">e6</string>
+    <string name="card6_ens_title">Oncidium</string>
+    <string name="card6_ens_header1">Oncidium</string>
+    <string name="card6_ens_header2">Orchidaceae</string>
+    <string name="card6_ens_header3">Asparagales</string>
+    <string name="card6_ens_header4">Genus</string>
+    <string name="card6_ens_founder">Olof Swartz</string>
+    <string name="card6_ens_description" tools:ignore="Typos">Oncidium is a genus consisting of approximately 330 species of orchids from the Epidendroideae sub family. This genus is a complex genus with many reclassified species. This genus
+        first described by Olof Swartz. This genus is spread from the territory of North Mexico, several areas in the Caribbean, some areas in South Florida, to South America. These orchids generally grow in dry areas. This oncidium light needs
+        may vary. In general, Oncidium can withstand more light, which is in the range of 20 - 60 percent of light.\n\nThen the temperature required for this oncidium orchid is generally between 55 - 60 Fahrenheit at night, 80 - 85 Fahrenheit during the day
+        day. Plants with large leafy or fleshy roots need less frequent watering than plants with thin roots or flesh. Watering should be thorough, and medium must dry at least half a turn of the pot before watering again. This watering
+        done every 2 - 10 days depending on the weather, pot size and material, orchid type and potting media type.</string>
+
+    <string name="card7_encyclopedia">e7</string>
+    <string name="card7_ens_title">Paphiopedilum</string>
+    <string name="card7_ens_header1">Paphiopedilum</string>
+    <string name="card7_ens_header2">Cypripedioideae</string>
+    <string name="card7_ens_header3">Asparagales</string>
+    <string name="card7_ens_header4">Genus</string>
+    <string name="card7_ens_founder">Ernst Hugo Heinrich Pfitzer</string>
+    <string name="card7_ens_description" tools:ignore="Typos">Paphiopedilum, which is often called sandal Venus, is a genus of sandal orchid venus subfamily Cypripedioideae of the flower plant family Orchidaceae. This genus consists of about 80 accepted taxa including
+        some natural hybrids. This genus originates from Southeast Asia, the Indian continent, southern China, New Guinea and the Solomon Islands and Bismarck. The species and their hybrids are cultivated extensively, and are known as paphiopedilums, or by the abbreviation paphs in
+        horticulture. The species of this genus is Paphiopedilum insigne.</string>
+
+    <string name="card8_encyclopedia">e8</string>
+    <string name="card8_ens_title">Miltonia</string>
+    <string name="card8_ens_header1">Miltonia</string>
+    <string name="card8_ens_header2">Oncidiinae</string>
+    <string name="card8_ens_header3">-</string>
+    <string name="card8_ens_header4">Genus</string>
+    <string name="card8_ens_founder">John Lindley</string>
+    <string name="card8_ens_description" tools:ignore="Typos">Miltonia, abbreviated as Milt. In the horticultural trade, is a genus of orchids formed by nine species of epiphytes and eight natural hybrids of the inhabitants of the Brazilian Atlantic Forest, one species of which reaches
+        northeast of Argentina and east of Paraguay. The genus was founded by John Lindley in 1837, when he described his species, Miltonia spectabilis. Many species have been associated with Miltonia in the past, but today, species from Central America and
+        from cooler regions of northwest South America has been transferred to other genera. Miltonia species have large, durable flowers, often in multifloral inflorescences. This fact is allied with the species which are easy to grow and for
+        identified, making it a favorite of orchid collectors around the world. Species of this genus are widely used to produce artificial hybrids.</string>
+
+    <string name="card9_encyclopedia">e9</string>
+    <string name="card9_ens_title">Epidendrum</string>
+    <string name="card9_ens_header1">Epidendrum</string>
+    <string name="card9_ens_header2">Orchidaceae</string>
+    <string name="card9_ens_header3">Asparagales</string>
+    <string name="card9_ens_header4">Genus</string>
+    <string name="card9_ens_founder">Carl Linnaeus</string>
+    <string name="card9_ens_description" tools:ignore="Typos">Epidendrum, abbreviated as Epi in the horticultural trade, is a large neotropic genus of the orchid family. With more than 1,500 species, some authors describe it as a mega-genus. Genus name
+        (from Greek ɛpɨ, epi and δένδρον, dendron, "in the tree") refers to its epiphytic growth habit.\n\nWhen Carl Linnaeus named this genus in 1763, he belonged to this genus of all the epiphytic orchids he knew. Although several
+        This orchid is still included in the genus Epidendrum, some species of Epidendrum are still not epiphytic.</string>
+
+    <string name="card10_encyclopedia">e10</string>
+    <string name="card10_ens_title">Catasetum</string>
+    <string name="card10_ens_header1">Catasetum</string>
+    <string name="card10_ens_header2">Orchidaceae</string>
+    <string name="card10_ens_header3">-</string>
+    <string name="card10_ens_header4">Genus</string>
+    <string name="card10_ens_founder">Carl Sigismund Kunth</string>
+    <string name="card10_ens_description" tools:ignore="Typos">Catasetum, abbreviated as Ctsm in the horticultural trade, is a striking genus of epiphytic Orchids, family Orchidaceae, subfamily Epidendroideae, tribe Cymbidieae, subtribe Catasetinae, with 166
+        species, many of which are very valuable in horticulture.\n\nThe genus Catasetum species occur from Mexico to Argentina, including most of Central America, the West Indies, and South America. The largest number of species is in Brazil.</string>
+
+    <string name="card11_encyclopedia">e11</string>
+    <string name="card11_ens_title">Bulbophyllum</string>
+    <string name="card11_ens_header1">Bulbophyllum</string>
+    <string name="card11_ens_header2">Bulbophyllinae</string>
+    <string name="card11_ens_header3">Asparagales</string>
+    <string name="card11_ens_header4">Genus</string>
+    <string name="card11_ens_founder">Louis Marie Aubert\nDu Petit-Thouars</string>
+    <string name="card11_ens_description" tools:ignore="Typos">Bulbophyllum is the largest genus in the Orchidaceae family of orchids. With more than 2,000 species, it is also one of the largest genera of flowering plants, surpassed only by Astragalus.
+        This genus is abbreviated in trade journals as Bulb. It is found in most of the warmer parts of the world: Africa, southern Asia, Latin America, the West Indies, and various islands in the Indian and Pacific Oceans.</string>
+
+    <string name="card12_encyclopedia">e12</string>
+    <string name="card12_ens_title">Brassia</string>
+    <string name="card12_ens_header1">Brassia</string>
+    <string name="card12_ens_header2">Oncidiinae</string>
+    <string name="card12_ens_header3">-</string>
+    <string name="card12_ens_header4">Genus</string>
+    <string name="card12_ens_founder">Robert Brown</string>
+    <string name="card12_ens_description" tools:ignore="Typos">Brassia is a genus of orchids belonging to the Onkidiinae subtype. It is native to Mexico, Central America, West Indies, and northern South America, with one species (B. caudata) spreading
+        to Florida.\nThe genus is named after William Brass, a British botanist and illustrator, who collected plants in Africa under the supervision of Sir Joseph Banks. The abbreviation in horticultural trade is Brs.</string>
+
+    <string name="card13_encyclopedia">e13</string>
+    <string name="card13_ens_title">Orchis</string>
+    <string name="card13_ens_header1">Orchis</string>
+    <string name="card13_ens_header2">Orchidinae</string>
+    <string name="card13_ens_header3">-</string>
+    <string name="card13_ens_header4">Genus</string>
+    <string name="card13_ens_founder">Joseph Pitton\nde Tournefort</string>
+    <string name="card13_ens_description" tools:ignore="Typos">Orchis is a genus in the orchid family (Orchidaceae), occurring mainly in Europe and Northwest Africa, and starting as far away as Tibet, Mongolia, and Xinjiang. The name comes from the ancient ὄρχι orchestra,
+        which means "testis", from the appearance of an underground oral tuberoid.</string>
+
+    <string name="card14_encyclopedia">e14</string>
+    <string name="card14_ens_title">Cypripedioideae</string>
+    <string name="card14_ens_header1">Cypripedioideae</string>
+    <string name="card14_ens_header2">Orchidaceae</string>
+    <string name="card14_ens_header3">-</string>
+    <string name="card14_ens_header4">Subfamily</string>
+    <string name="card14_ens_founder">-</string>
+    <string name="card14_ens_description" tools:ignore="Typos">Cypripedioideae is a type of orchid which is a sub-tribe of Orchidaceae. The types of orchids from this tribal child are called the sandal orchid nona (women's sandal) because of the flower shape that has pockets
+        hold up women's sandals. This bag serves to catch insects that can help pollinate.</string>
+
+    <string name="card15_encyclopedia">e15</string>
+    <string name="card15_ens_title">Vanilla</string>
+    <string name="card15_ens_header1">Vanilla</string>
+    <string name="card15_ens_header2">Vanillinae</string>
+    <string name="card15_ens_header3">-</string>
+    <string name="card15_ens_header4">Genus</string>
+    <string name="card15_ens_founder">Philip Miller</string>
+    <string name="card15_ens_description" tools:ignore="Typos">Vanilla, the vanilla orchid, forms a genus of flowering plants of about 110 species in the orchid family (Orchidaceae). The most widely recognized member is the flat-leaved vanilla (V. planifolia), native to Mexico,
+        from which the commercial vanilla flavoring is derived. It is the only orchid that is widely used for industrial purposes in flavoring products such as food, beverages and cosmetics, and is recognized as the most popular of all. Key constituents
+        one which gives a popular characteristic is the phenolic aldehyde, vanillin.</string>
+
+    <string name="card16_encyclopedia">e16</string>
+    <string name="card16_ens_title">Laelia</string>
+    <string name="card16_ens_header1">Laelia</string>
+    <string name="card16_ens_header2">Laeliinae</string>
+    <string name="card16_ens_header3">Asparagales</string>
+    <string name="card16_ens_header4">Genus</string>
+    <string name="card16_ens_founder">John Lindley</string>
+    <string name="card16_ens_description" tools:ignore="Typos">Laelia is a small genus of 25 species in the orchid family (Orchidaceae). The Laelia species are found in the subtropical or temperate regions of Central and South America, but mostly in Mexico.
+        Laelia is abbreviated as L. in the horticultural trade.</string>
+
+    <string name="card17_encyclopedia">e17</string>
+    <string name="card17_ens_title">Zygopetalum</string>
+    <string name="card17_ens_header1">Zygopetalum</string>
+    <string name="card17_ens_header2">Orchidaceae</string>
+    <string name="card17_ens_header3">-</string>
+    <string name="card17_ens_header4">Genus</string>
+    <string name="card17_ens_founder">William Jackson Hooker</string>
+    <string name="card17_ens_description" tools:ignore="Typos">Zygopetalum is a genus of the orchid family (Orchidaceae) (subfamily Epidendroideae, tribe Maxillarieae, subtribe Zygopetalinae), which consists of fourteen currently known species.\nGeneric name
+        This orchid, comes from the Greek word zygon, means "firm petal". It refers to yoke-like growths on the base of the lips caused by the joining of petals and sepals.\nThey occur in moist forests in low-to-midland areas
+        South America, with most of the species in Brazil.</string>
+
+    <string name="card18_encyclopedia">e18</string>
+    <string name="card18_ens_title">Ludisia</string>
+    <string name="card18_ens_header1">Ludisia</string>
+    <string name="card18_ens_header2">Goodyerinae</string>
+    <string name="card18_ens_header3">Asparagales</string>
+    <string name="card18_ens_header4">Genus</string>
+    <string name="card18_ens_founder">Achille Richard</string>
+    <string name="card18_ens_description" tools:ignore="Typos">Ludisia is an orchid genus that contains only one species, namely Ludisia discolor, commonly referred to as gem orchid. They come from southern China, Thailand, Vietnam, the Philippines, Malaysia,
+        Indonesia and Burma, and often cultivated. They are terrestrial orchids which in their natural state will be found growing on the forest floor. They are known for their foliage, which is often velvety maroon with red veins
+        parallel to the center of the leaf.</string>
+
+    <string name="card19_encyclopedia">e19</string>
+    <string name="card19_ens_title">Masdevallia</string>
+    <string name="card19_ens_header1">Masdevallia</string>
+    <string name="card19_ens_header2">Pleurothallidinae</string>
+    <string name="card19_ens_header3">Asparagales</string>
+    <string name="card19_ens_header4">Genus</string>
+    <string name="card19_ens_founder">Hipólito Ruiz López</string>
+    <string name="card19_ens_description" tools:ignore="Typos">Masdevallia, shortened to Masd in the horticultural trade, is a large genus of flowering plants of the Pleurothallidinae, a subtribe of the orchid family (Orchidaceae). There are more than 500
+        species, are grouped into several subgenera. This genus is named for Jose Masdeval, a doctor and botanist at the court of Charles III of Spain.</string>
+
+    <string name="card20_encyclopedia">e20</string>
+    <string name="card20_ens_title">Vanili</string>
+    <string name="card20_ens_header1">Vanilla planifolia</string>
+    <string name="card20_ens_header2">Vanilla</string>
+    <string name="card20_ens_header3">-</string>
+    <string name="card20_ens_header4">Spesies</string>
+    <string name="card20_ens_founder">-</string>
+    <string name="card20_ens_description" tools:ignore="Typos">Vanilla (Vanilla planifolia) is a plant that produces vanilla powder which is commonly used as food fragrances. This powder is produced from its pods. The first known vanilla plant
+        times by the Indians in Mexico, the country of origin of the plant. The regional name for vanilla is Panili or Perneli.</string>
+
+    <!--Encyclopedia Resources-->
+    <string name="header1_encyclopedia">Scientific name: </string>
+    <string name="header2_encyclopedia">Higher classification: </string>
+    <string name="header3_encyclopedia">Order: </string>
+    <string name="header4_encyclopedia">Taxon grade: </string>
+    <string name="founder_title_encyclopedia">Inventor</string>
+    <string name="description_title_encyclopedia">Short description</string>
+    <string name="gallery_title_encyclopedia">Gallery photo</string>
+    <string name="galerry_hint_encyclopedia">Tap here to view the photo gallery…</string>
+    <string name="detail_encyclopedia">Read more ...</string>
+    <string name="encyclopedia_reference1">Reference: Wikipedia</string>
+
+
+    <!--Development String Resources-->
+    <string name="test">Quang</string>
+    <string name="wip">This feature is currently under development ...</string>
+    <string name="wip_info">We will add more features later ...</string>
+    <string name="beta_program_title">Application in development stage</string>
+    <string name="beta_program_description">You need to know that application <b>Wikidemo</b> currently in the development stage.
+        We are sorry if the application does not run properly and there are bugs on some devices.</string>
+    <string name="beta_program_version">Current version of the application:</string>
+    <string name="beta_program_approve">Understand</string>
+    <string name="beta_program_decline">Close the application</string>
+    <string name="beta_program_exiting_app">Closing the application ...</string>
+
+
+    <!--About App Resource-->
+    <string name="title_about_app">About the Application</string>
+    <string name="title_source_reference">Sources and References</string>
+    <string name="title_app_lib">Third party software</string>
+    <string name="developed_by">Developed by\nQuang</string>
+    <string name="about_app_version">Version</string>
+    <string name="about_app_dev">Application Developer</string>
+    <string name="developer">Quang</string>
+    <string name="dev_info">Developer, UI &amp; UX Designer</string>
+
+
+    <!--About App Resources-->
+    <string name="app_res1">Wikipedia</string>
+    <string name="app_res2">WikiHow</string>
+    <string name="app_res3">Google</string>
+    <string name="app_res4">Stack Overflow</string>
+    <string name="app_res5">Android Developers</string>
+    <string name="app_res6">Flaticon</string>
+    <string name="app_res7">Freepik</string>
+    <string name="app_res_type1">Reference Material:</string>
+    <string name="app_res_type2">Reference Code:</string>
+    <string name="app_res_type3">Reference Image &amp; icon:</string>
+
+
+    <!--About App Library Resources-->
+    <string name="app_lib1">Picasso</string>
+    <string name="app_lib2">Rounded image view</string>
+    <string name="app_lib3">Circle image view</string>
+
+
+    <!--App String-->
+    <string name="app_name">Wikidemo</string>
+    <string name="app_version">1.0</string>
+    <string name="app_package_name">com.orchidpedia</string>
+    <string name="app_description">Demo Wiki that discusses about orchids</string>
+    <string name="title_home">Menu</string>
+    <string name="title_dashboard">Wikidemo</string>
+    <string name="dialog_exit_app_title">Exit Application</string>
+    <string name="dialog_exit_app_description">Are you sure you want to quit the application?</string>
+    <string name="btn_dialog_exit_yes">Yes</string>
+    <string name="btn_dialog_exit_no">No</string>
+</resources>

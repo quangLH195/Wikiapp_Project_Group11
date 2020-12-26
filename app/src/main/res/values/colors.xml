@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#da9ce6</color>
+    <color name="colorPrimaryDark">#c683d2</color>
+    <color name="colorAccent">#cc67de</color>
+    <color name="colorBackground">#e6e6e6</color>
+    <color name="colorBackgroundReference">#212121</color>
+    <color name="semi_transparent">#66000000</color>
+    <color name="colorTextDetail">#3d86df</color>
+    <color name="colorTextVersion">#717171</color>
+    <color name="colorTextSource">#3d3d3d</color>
+    <color name="color_enabled">#0d0d0d</color>
+    <color name="color_disabled">#454545</color>
+    <color name="tab_enabled">#ffffff</color>
+    <color name="tab_disabled">#dadada</color>
+
+    <!--ctl menu scrim color-->
+    <color name="colorScrim_menu_card1">#ff80ab</color>
+    <color name="colorScrim_menu_card2">#58c679</color>
+    <color name="colorScrim_menu_card3">#bf7c54</color>
+    <color name="colorScrim_menu_card4">#9e9e9e</color>
+
+    <color name="colorControlHighlight">@color/fifty_percent_transparency_grey_400</color>
+    <color name="fifty_percent_transparency_grey_400">#80bdbdbd</color>
+    <color name="grey_500">#9e9e9e</color>
+    <color name="grey_700">#616161</color>
+</resources>
